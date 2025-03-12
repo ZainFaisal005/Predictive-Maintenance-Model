@@ -136,6 +136,7 @@ Want to improve this project?
 ## 📌 **Contact**
 💡 **Developer:** [Zain Faisal](https://www.linkedin.com/in/zain-faisal-593b05239)  
 📩 **Email:** zainfaisal280@gmail.com
+
 🔗 **GitHub:** [ZainFaisal005](https://github.com/ZainFaisal005)  
 🔗 **Kaggle:** [ZainFaisal005](https://www.kaggle.com/zain280)  
 
