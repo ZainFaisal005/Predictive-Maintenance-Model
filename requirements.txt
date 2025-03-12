@@ -1,0 +1,13 @@
+Flask
+pandas
+numpy
+joblib
+tensorflow
+scikit-learn
+Flask
+pandas
+numpy
+joblib
+tensorflow
+scikit-learn
+gunicorn
