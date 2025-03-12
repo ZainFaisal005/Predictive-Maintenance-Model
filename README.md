@@ -1,11 +1,3 @@
-✅ Project Overview  
-✅ Features  
-✅ Technologies Used  
-✅ How to Run Locally  
-✅ How to Use the Web App  
-✅ Deployment on Hugging Face (with a placeholder link)  
-✅ Future Improvements  
-
 # 🔧 Predictive Maintenance System
 
 A **machine learning-based web application** that predicts potential equipment failures based on input sensor data.  
@@ -149,13 +141,3 @@ Want to improve this project?
 
 
 ⭐ **If you find this project helpful, please give it a star!** ⭐
-```
-
-
-### **💡 What This Project Includes:**
-✔ **Clear project description**  
-✔ **Live demo link**  
-✔ **Step-by-step guide to running locally**  
-✔ **Hugging Face deployment steps**  
-✔ **Future improvements**  
-✔ **Contact & Contribution details**  
